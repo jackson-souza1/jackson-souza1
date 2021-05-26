@@ -1,7 +1,7 @@
 # jackson-souza1
 
 <h1 align="center">Hi 👋, I'm Jackson Souza</h1>
-<h3 align="center">A passionate backend developer from India .. OPS .. Brazil</h3>
+<h3 align="center">A passionate backend developer from Brazil</h3>
 
 - 💬 Ask me about **python, selenium, docker**
 
